@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://seoklab.org/'>Affiliations</a>. j2ho@snu.ac.kr
+subtitle: Studying at <a href='https://seoklab.org/'>COMPBIO LAB</a> | EMAIL: j2ho@snu.ac.kr
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   address: >
     <p>BLD 502-203</p>
     <p>Seoul Nat. University</p>
-    <p>Seoul 08826, Rep. of Korea</p>
+    <p>Seoul 08826, Korea</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
