@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Personal blog 
+subtitle: to my universe! (in the form of a blog)
 
 profile:
   align: right
