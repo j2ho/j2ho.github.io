@@ -2,5 +2,5 @@ github_users:
   - j2ho
 
 github_repos:
-  - seoklab
-  - j2ho
+  - seoklab/alphafold
+  - j2ho/django
