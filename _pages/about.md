@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate student at <a href='https://seoklab.org/'>SEOKLAB</a>
-Based in Seoul, Korea. 
-Email: j2hosim@snu.ac.kr.
+subtitle: Graduate student at <a href='https://seoklab.org/'>SEOKLAB</a> Based in Seoul, Korea. Email: j2hosim@snu.ac.kr.
 
 
 profile:
