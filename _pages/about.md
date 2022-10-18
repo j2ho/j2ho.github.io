@@ -19,8 +19,11 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hello World!
+
 I'm Jiho Sim, a graduate student researching in the field of computional biochemistry. 
-I am currently studying at <a href='https://seoklab.org/'>COMPBIO LAB</a> of SNU in Seoul, Korea. 
+I am currently studying at SNU Chemistry department's <a href='https://seoklab.org/'>COMPBIO LAB</a> in Seoul, Korea. 
+
 You can contact me at j2ho@snu.ac.kr 😎
 
-My E-mail, Github and Twitter contacts are at the bottom! (just click on the icon) 
+My E-mail, Github and Twitter contacts are at the bottom! 
+(just click on the icon) 
