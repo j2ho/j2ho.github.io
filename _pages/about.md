@@ -25,5 +25,4 @@ I am currently studying at SNU Chemistry department's <a href='https://seoklab.o
 
 You can contact me at j2ho@snu.ac.kr 😎
 
-My E-mail, Github and Twitter contacts are at the bottom! 
-(just click on the icon) 
+My E-mail, Github and Twitter contacts are at the bottom! 📬
