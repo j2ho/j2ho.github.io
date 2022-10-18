@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Studying at <a href='https://seoklab.org/'>COMPBIO LAB</a> | EMAIL: j2ho@snu.ac.kr
+subtitle: <p> Studying at <a href='https://seoklab.org/'>COMPBIO LAB</a> | EMAIL: j2ho@snu.ac.kr </p>
 
 profile:
   align: right
