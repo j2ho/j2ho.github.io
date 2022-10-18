@@ -11,24 +11,20 @@
 - title: Education
   type: time_table
   contents:
-    - title: B.S.
-      institution: Seoul National University, Seoul, Korea
-      year: 2021
-      description:
-        - B.S. in Chemistry
-        - 2016.03 ~ 2021.02 
-
-
-- title: Experience
-  type: time_table
-  contents:
     - title: Ph.D candidate
       institution: Seoul National University, Seoul, Korea
       year: 2021-now
       description:
         - Computational Biology and Biomolecular Engineering
         - <a href="https://seoklab.org/">SNU CompBio Lab</a>
-
+        
+    - title: B.S.
+      institution: Seoul National University, Seoul, Korea
+      year: 2021
+      description:
+        - B.S. in Chemistry
+        - 2016.03 ~ 2021.02 
+        
 
 - title: Open Source Projects
   type: time_table
