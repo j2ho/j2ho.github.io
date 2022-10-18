@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate student @ <a href='https://seoklab.org/'>SEOKLAB</a>. Seoul, Korea. j2hosim@snu.ac.kr. Moto. Etc.
+subtitle: Graduate student at <a href='https://seoklab.org/'>SEOKLAB</a>
+Based in Seoul, Korea. 
+Email: j2hosim@snu.ac.kr.
+
 
 profile:
   align: right
@@ -10,7 +13,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Lab: BLD 502-203</p>
-    <p>Department of Chemistry, Seoul National University</p>
+    <p>Department of Chemistry, Seoul Nat. University</p>
     <p>Seoul 08826, Republic of Korea</p>
 
 news: true  # includes a list of news items
