@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: My BLOG # the website title (if blank, full name will be used instead)
 first_name: Jiho
   #middle_name: R.
   #last_name: Name
@@ -67,7 +67,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: j2ho# your GitHub user name
+github_username: j2ho # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: jihosimxx # your Twitter handle
 linkedin_username: # your LinkedIn user name
