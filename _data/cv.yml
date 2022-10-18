@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D candidate
+    - title: Graduate Student
       institution: Seoul National University, Seoul, Korea
       year: 2021-now
       description:
@@ -20,7 +20,7 @@
         
     - title: B.S.
       institution: Seoul National University, Seoul, Korea
-      year: 2021
+      year: 2016-2021
       description:
         - B.S. in Chemistry
         - 2016.03 ~ 2021.02 
