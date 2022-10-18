@@ -191,6 +191,8 @@ plugins:
   - jekyll-target-blank
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-multiple-languages-plugin
+
 
 # Sitemap settings
 defaults:
@@ -289,13 +291,6 @@ imagemagick:
 jekyll-diagrams:
     # configuration, see https://github.com/zhustec/jekyll-diagrams.
     # feel free to comment out this section if not using jekyll diagrams.
-
-# -----------------------------------------------------------------------------
-# Jekyll Plugins
-# -----------------------------------------------------------------------------
-
-plugins:
-  - jekyll-multiple-languages-plugin
 
 
 # -----------------------------------------------------------------------------
