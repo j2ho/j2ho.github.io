@@ -59,7 +59,7 @@
 
 
 - title: Other Interests
-  type: list
+  type: nested_list
   contents:
     - title: <u>Hobbies</u> 
       items: 
